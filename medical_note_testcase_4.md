@@ -1,14 +1,15 @@
 # Medical Note - Test Case 4 (Gemini)
 
-**SUBJECTIVE:**
-Patient is a 55-year-old female here for follow-up of hypertension. Denies chest pain. Currently takes lisinopril.
+**Subjective**
+55 y.o. female here for follow-up of hypertension. Denies chest pain.
 
-**OBJECTIVE:**
-BP: 132/88
+**Objective**
+*   BP: 132/88
+*   Current medication: Lisinopril
 
-**ASSESSMENT:**
-Hypertension
+**Assessment**
+*   Hypertension
 
-**PLAN:**
-1. Increase lisinopril to 20 mg daily.
-2. Recheck in 4 weeks.
+**Plan**
+*   Increase lisinopril to 20 mg.
+*   Recheck in 4 weeks.

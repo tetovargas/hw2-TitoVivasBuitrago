@@ -1,12 +1,18 @@
 # Medical Note - Test Case 5 (Gemini)
 
-**S: Mr. Thompson is a 48-year-old male presenting with chest pain experienced last week.
-Family history is positive for heart disease in his father at age 50.
+**Subjective**
+48-year-old male presents with chest pain experienced last week.
+*   Family history significant for father with heart disease at age 50.
 
-**O: EKG performed last week was normal. Troponin was negative.
+**Objective**
+*   EKG: Normal
+*   Troponin: Negative
 
-**A: Chest pain. Etiology could be cardiac versus musculoskeletal. Rule out Acute Coronary Syndrome (ACS).
+**Assessment**
+Chest pain.
+*   Rule out acute coronary syndrome (ACS).
+*   Consider cardiac vs. musculoskeletal etiology.
 
-**P:
-- Stress test
-- Continue aspirin
+**Plan**
+*   Order stress test.
+*   Continue aspirin.
