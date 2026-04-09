@@ -1,4 +1,4 @@
-# Medical Note Dictation AI
+# Medical Note Dictation AI.  Video Link: https://youtu.be/4lqdzmahITg	
 
 AI-powered workflow that converts a clinician’s **spoken dictation** into a clean, structured **SOAP medical note**.
 
